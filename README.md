@@ -204,5 +204,15 @@ graph TD
 
 ---
 
-License
-RustPyNet is licensed under the Apache-2.0 license.
+## License
+
+RustPyNet and `rustpynet_macros` version 0.2.0 and later are licensed under
+the [Mozilla Public License 2.0](LICENSE). Copyright is held by Cristian
+Camargo Filho personally.
+
+The MPL requires distributed modifications to covered files to remain
+available as MPL-licensed source. It permits commercial use and larger works
+whose separate files use other licenses.
+
+Earlier published versions retain the license terms shipped with them. See
+[NOTICE.md](NOTICE.md) for the exact boundary.

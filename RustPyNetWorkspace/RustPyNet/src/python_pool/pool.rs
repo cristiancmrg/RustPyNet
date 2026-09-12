@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 use lazy_static::lazy_static;
 use pyo3::prelude::*;
 use std::collections::HashMap;

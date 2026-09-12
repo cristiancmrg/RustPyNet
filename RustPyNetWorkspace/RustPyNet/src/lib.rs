@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 use crate::python_pool::pool::PythonTaskQueue;
 use lazy_static::lazy_static;
 use std::sync::{Arc, Mutex};
