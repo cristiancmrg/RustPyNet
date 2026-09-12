@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MPL-2.0
 extern crate proc_macro;
 
 // In your macro crate or module
